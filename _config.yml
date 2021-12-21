@@ -10,15 +10,15 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Dataset Creation for Lower-Resourced Languages
+title: Dataset Creation for Lower-Resourced Languages Workshop
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: globe
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "Create a workshop website quick and easy!"
+description: "Dataset Creation for Lower-Resourced Languages LREC 2022 Workshop"
 keywords: "LREC, NLP, datasets, lower-resourced languages"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL

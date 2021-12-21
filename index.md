@@ -3,7 +3,9 @@ title: Home
 layout: default
 ---
 
-# Dataset Creation for Lower-Resourced Languages
+# Dataset Creation for Lower-Resourced Languages Workshop
+
+## Hosted at LREC 2022
 
 
 <!-- {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %} -->
