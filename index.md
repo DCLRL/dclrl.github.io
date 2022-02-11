@@ -1,16 +1,5 @@
----
-title: Home
-layout: default
----
 
-# Dataset Creation for Lower-Resourced Languages Workshop
-
-## Hosted at LREC 2022
-
-
-<!-- {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %} -->
-
-In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work. 
+In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work.
 
 The overall goal of the workshop is to create a new venue where previously disjoint research communities working on different areas surrounding lower-resourced languages can come together and share their insights across specialized research niches. We take an open and intersectional perspective to what might be called a “lower-resourced language,” acknowledging that this designation is both imperfect and often the result of many contributing factors.
 
@@ -30,6 +19,3 @@ following areas:
 * Less traditional resources valued by LRL speakers
 * Methods of collaboration with speakers of LRLs
 * Ethical issues when working with LRLs
-
-
-<!-- {% include toc.html %} -->

@@ -1,24 +1,74 @@
 <!DOCTYPE html>
-<html lang="en" class="h-100">
-  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-  {% include template/head.html %}
-  </head>
+<html lang="{{ site.lang | default: "en-US" }}">
 
-  <body class="d-flex flex-column h-100">
-    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-    <header>
-    {% include template/top-nav.html %}
-    </header>
+    <head>
+        {% if site.google_analytics %}
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', '{{ site.google_analytics }}');
+        </script>
+        {% endif %}
+        <meta charset="UTF-8">
 
-    <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
-      <div class="container my-4">
-      {{ content }}
-      </div>
-    </main>
+        {% seo %}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#157878">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="stylesheet"
+            href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    </head>
 
-    {% include template/footer.html %}
-    {% include template/foot.html %}
+    <body>
 
-  </body>
+
+        <div class="headerbox ">
+            <header class="headercontent centermiddle " role="banner">
+                <div class="maintopic">
+                    {{ page.title | default: site.title | default: site.github.repository_name }}
+                </div>
+                <div class="subtopic">
+                    {{ page.description | default: site.description | default: site.github.project_tagline }}
+                </div>
+            </header>
+        </div>
+        <div class="navtop"></div>
+
+
+        {% unless page.layout == 'front' %}
+        <div class="navbar centermiddle  ">
+            {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% if page.url == link.url or page.layout == link.layout %}
+            {% assign current = 'navactive' %}
+            {% endif %}
+
+
+            <a class="{{ current| append: ' navbutton' }}" href="{{ link.url | prepend: basepath }}">{{ link.text }}</a>
+
+            {% endfor %}
+        </div>
+        {% endunless %}
+
+        <main id="content" class="centermiddle  " role="main">
+
+
+            {{ content }}
+
+
+            <footer class="site-footer">
+                {% if site.github.is_project_page %}
+                <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">DCLRL@LREC2022</a> is
+                    maintained by the
+                    <a href="{{ site.github.owner_url }}"> Organizers</a>.</span>
+                {% endif %}
+                <span class="site-footer-credits">This page is hosted on Github using <a
+                        href="https://pages.github.com">GitHub
+                        Pages</a>.</span>
+            </footer>
+        </main>
+    </body>
 
 </html>
