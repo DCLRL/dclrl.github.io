@@ -1,3 +1,8 @@
+# Dates and Call for Papers
+
+We are currently finalizing our dates and CFP and will post them on April 8th, 2022.
+
+# Workshop Description
 
 In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work.
 

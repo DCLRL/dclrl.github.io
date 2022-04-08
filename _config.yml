@@ -7,13 +7,3 @@ basepath: ""
 navigation:
 - text: HOME
   url: /
-- text: PROGRAM
-  url: /program.html
-  layout: post
-- text: ORGANIZERS
-  url: /organizers.html
-- text: DATES
-  url: /dates.html
-  layout: project
-- text: CALL FOR PAPERS
-  url: /cfp.html
