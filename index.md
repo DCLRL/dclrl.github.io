@@ -33,8 +33,6 @@ A non-exhaustive list of relevant topics for the workshop includes the following
 
 We invite submissions of 4-8 page papers describing new resources for lower-resourced languages (LRLs), analyses of existing resources, advances in methodologies for constructing, curating, and using resources, and discussion of the challenges and ethical considerations of working with LRLs. Archival submissions will be included in the proceedings of the workshop in full.
 
-We are currently finalizing our dates and CFP and will post them on April 8th, 2022.
-
 ## Non-archival Submissions
 
 We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevenat work and we will include as many as possible in a poster session. We are still working out the details of this process and will post more information soon.
