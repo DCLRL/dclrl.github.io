@@ -44,7 +44,7 @@ We will also accept submissions of extended abstracts for works-in-progress and 
 * Submission deadline (archival): 4/18/2022
 * Notification of acceptance: 5/3/2022
 * Camera-ready submission: 5/23/2022
-* Workshop:6/24/2022 (morning)
+* Workshop: 6/24/2022 (morning)
 
 
 ## Submission link
