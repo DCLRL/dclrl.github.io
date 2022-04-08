@@ -6,9 +6,9 @@ LREC 2022 Workshop, June 24th 2022
 
 In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work.
 
-The overall goal of the workshop is to create a new venue where previously disjoint research communities working on different areas surrounding lower-resourced languages can come together and share their insights across specialized research niches. We take an open and intersectional perspective to what might be called a “lower-resourced language,” acknowledging that this designation is both imperfect and often the result of many contributing factors.
+The overall goal of the workshop is to create a new venue where previously disjoint research communities working on different areas surrounding lower-resourced languages can come together and share their insights across specialized research niches. We take an open and intersectional perspective to the definition of a “lower-resourced language,” acknowledging that this designation is both imperfect and often the result of many contributing factors.
 
-Our workshop is deisgned to be open and inclusive, presenting great scholarship from as many different perspectives as possible, without endorsing a specific point of view on the workshop's topics.
+Our workshop is designed to be open and inclusive, presenting great scholarship from as many different perspectives as possible, without endorsing a specific point of view on the workshop's topics.
 
 
 # Call for Papers
@@ -35,7 +35,7 @@ We invite submissions of 4-8 page papers describing new resources for lower-reso
 
 ## Non-archival Submissions
 
-We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevenat work and we will include as many as possible in a poster session. We are still working out the details of this process and will post more information soon.
+We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work and we will include as many as possible in a poster session. We are still working out the details of this process and will post more information soon.
 
 ## Dates
 
