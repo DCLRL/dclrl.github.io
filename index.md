@@ -48,3 +48,8 @@ We will also accept submissions of extended abstracts for works-in-progress and 
 ## Submission link
 
 We are still configuring the submission system, please check back in after April 11th. (We will also specify the time zone on our submission deadline when the system is fully configured.)
+
+
+## Contact
+
+Please contact lignos at brandeis dot edu with any questions.
