@@ -1,3 +1,5 @@
+# Dataset Creation for Lower-Resourced Languages
+
 # Workshop Description
 
 In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work.
@@ -37,9 +39,10 @@ We will also accept submissions of extended abstracts for works-in-progress and 
 
 ## Dates
 
-* Submission deadline: 4/18/2022
+* Submission deadline (archival): 4/18/2022
 * Notification of acceptance: 5/3/2022
 * Camera-ready submission: 5/23/2022
+* Workshop:
 
 
 ## Submission link
