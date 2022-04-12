@@ -28,6 +28,7 @@ A non-exhaustive list of relevant topics for the workshop includes the following
 * Less traditional resources valued by LRL speakers
 * Methods of collaboration with speakers of LRLs
 * Ethical issues when working with LRLs
+* Position papers on anything related to LRLs, including what should be considered an LRL
 
 ## Archival Submissions
 
@@ -37,11 +38,11 @@ Submissions must use the [LREC 2022 Template](https://lrec2022.lrec-conf.org/en/
 Following the LREC template, submission are non-anonymous and reviewing is single-blind.
 References, acknowledgments, and ethical considerations/broader impact sections do not count toward the page limit.
 
-A PDF-format appendix containing supplementary information (additional results, information for reproducibility, annotation guidelines, etc.) can also be submitted.
+A PDF-format appendix containing supplementary information (additional results, information for reproducibility, annotation guidelines, etc.) can also be submitted if desired.
 
 ## Non-archival Submissions
 
-We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work and we will include as many as possible in a poster session. These submissions will be collected after the archival submission deadline.
+We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work, and we will include as many as possible in a poster session. These submissions will be collected after the archival submission deadline.
 
 ## Dates
 
