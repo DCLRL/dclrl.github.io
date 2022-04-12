@@ -58,7 +58,7 @@ All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
 
 ## Submission link
 
-Use [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) to submit archival submissions.
+Use the [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) to submit archival submissions.
 
 
 ## Contact
