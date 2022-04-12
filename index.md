@@ -10,6 +10,8 @@ The overall goal of the workshop is to create a new venue where previously disjo
 
 Our workshop is designed to be open and inclusive, presenting great scholarship from as many different perspectives as possible, without endorsing a specific point of view on the workshop's topics.
 
+Like all of LREC, the workshop will be held in a hybrid fashion, with options for in-person and remote participation.
+
 
 # Call for Papers
 
