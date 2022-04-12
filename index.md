@@ -33,11 +33,19 @@ A non-exhaustive list of relevant topics for the workshop includes the following
 
 We invite submissions of 4-8 page papers describing new resources for lower-resourced languages (LRLs), analyses of existing resources, advances in methodologies for constructing, curating, and using resources, and discussion of the challenges and ethical considerations of working with LRLs. Archival submissions will be included in the proceedings of the workshop in full.
 
+Submissions must use the [LREC 2022 Template](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/) and be submitted as a PDF.
+Following the LREC template, submission are non-anonymous and reviewing is single-blind.
+References, acknowledgments, and ethical considerations/broader impact sections do not count toward the page limit.
+
+A PDF-format appendix containing supplementary information (additional results, information for reproducibility, annotation guidelines, etc.) can also be submitted.
+
 ## Non-archival Submissions
 
-We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work and we will include as many as possible in a poster session. We are still working out the details of this process and will post more information soon.
+We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work and we will include as many as possible in a poster session. These submissions will be collected after the archival submission deadline.
 
 ## Dates
+
+All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
 
 * Submission deadline (archival): 4/18/2022
 * Notification of acceptance: 5/3/2022
@@ -47,7 +55,7 @@ We will also accept submissions of extended abstracts for works-in-progress and 
 
 ## Submission link
 
-We are still configuring the submission system, please check back in after April 11th. (We will also specify the time zone on our submission deadline when the system is fully configured.)
+Use [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) to submit archival submissions.
 
 
 ## Contact
