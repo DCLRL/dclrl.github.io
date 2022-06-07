@@ -1,6 +1,6 @@
 # Dataset Creation for Lower-Resourced Languages
 
-LREC 2022 Workshop, June 24th 2022
+LREC 2022 Workshop, 9am-1pm June 24th, 2022
 
 # Workshop Description
 
@@ -72,7 +72,7 @@ A non-exhaustive list of relevant topics for the workshop includes the following
 * Ethical issues when working with LRLs
 * Position papers on anything related to LRLs, including what should be considered an LRL
 
-## Archival Submissions
+## Submissions
 
 We invite submissions of 4-8 page papers describing new resources for lower-resourced languages (LRLs), analyses of existing resources, advances in methodologies for constructing, curating, and using resources, and discussion of the challenges and ethical considerations of working with LRLs. Archival submissions will be included in the proceedings of the workshop in full.
 
@@ -82,9 +82,6 @@ References, acknowledgments, and ethical considerations/broader impact sections 
 
 A PDF-format appendix containing supplementary information (additional results, information for reproducibility, annotation guidelines, etc.) can also be submitted if desired.
 
-## Non-archival Submissions
-
-We will also accept submissions of extended abstracts for works-in-progress and submission of work published elsewhere (including the LREC main conference). These submissions will be not receive a full review process, but relevant, high-quality submissions will be listed in our proceedings and linked from our workshop website as relevant work, and we will include as many as possible in a poster session. These submissions will be collected after the archival submission deadline.
 
 ## Dates
 
