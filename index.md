@@ -13,6 +13,46 @@ Our workshop is designed to be open and inclusive, presenting great scholarship 
 Like all of LREC, the workshop will be held in a hybrid fashion, with options for in-person and remote participation.
 
 
+# Schedule
+
+A final schedule is coming soon. The workshop will be held from 9am to 1pm on June 24th, at LREC 2022. There will be a coffee break from 10:30-11:00.
+
+Each paper will be presented with an oral presentation.
+
+
+# Accepted Papers
+
+*Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community*  
+Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
+
+*Building an Icelandic Entity Linking Corpus*  
+Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
+
+*Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics*  
+Muxuan Liu and Ichiro Kobayashi
+
+*Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection*  
+Erik Körner, Felix Helfer, Christopher Schröder, Thomas Eckart and Dirk Goldhahn
+
+*Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images*  
+Christina Baskal, Amelie Elisabeth Beutel, Jessika Keberlein, Malte Ollmann, Esra Üresin, Jana Vischinski, Janina Weihe, Linda Achilles and Christa Womser-Hacker
+
+*Fine-grained Entailment: Resources for Greek NLI and Precise Entailment*  
+Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper, Simon Dobnik, Aram Karimi, Adam Ek, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Ilias Kolokousis, Eirini Chrysovalantou Mamatzaki, Dimitrios Papadakis, Olga Petrova, Erofili Psaltaki, Charikleia Soupiona, Effrosyni Skoulataki and Christina Stefanidou
+
+*LiSTra Automatic Speech Translation: English to Lingala Case Study*  
+Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
+
+*SyntAct: A Synthesized Database of Basic Emotions*  
+Felix Burkhardt, Florian Eyben and Björn W. Schuller
+
+*Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data*  
+Aparna Dutta
+
+*Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples*  
+Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
+
+
 # Call for Papers
 
 ## Topics
