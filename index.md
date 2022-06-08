@@ -27,11 +27,16 @@ Invited talk (TBD)
 *9:40-10:30am*  
 Oral presentations I (three talks)
 
-*11-12:50pm*  
-Oral presentations II (four talks)
+*10:30-11am*  
+Coffee break
 
-*12:50-1pm*  
+*11-12:50pm*  
+Oral presentations II (seven talks, five-minute break in the middle)
+
+*12:55-1pm*  
 Closing remarks (Constantine Lignos)
+
+Afternoon workshops will begin at 2pm.
 
 
 # Accepted Papers
