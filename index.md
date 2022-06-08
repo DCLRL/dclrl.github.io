@@ -30,7 +30,7 @@ Oral presentations I (three talks)
 *10:30-11am*  
 Coffee break
 
-*11-12:50pm*  
+*11-12:55pm*  
 Oral presentations II (seven talks, five-minute break in the middle)
 
 *12:55-1pm*  
