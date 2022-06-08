@@ -52,6 +52,42 @@ Aparna Dutta
 *Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples*  
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
+# People
+
+## Organizers
+
+Constantine Lignos  
+Chester Palen-Michel  
+Jonne Sälevä
+
+## Program Committee
+
+Linda Achilles  
+Petra Bago  
+Steven Bedrick  
+Stergios Chatzikyriakidis  
+Aparna Dutta  
+Hafsteinn Einarsson  
+Steinunn Rut Friðriksdóttir  
+Imane Guellil  
+Rejwanul Haque  
+Asha Hegde  
+Chaak-ming Lau  
+Jackson Lee  
+Muxuan Liu  
+Alex Lưu  
+Vukosi Marivate  
+Malte Ollmann  
+Hilary Prichard  
+Karthika Ranganathan  
+Caitlin Richter  
+Hosahalli Lakshmaiah Shashirekha  
+Ridouane Tachicart
+
+## Contact
+
+Please contact lignos at brandeis dot edu with any questions.
+
 
 # Call for Papers
 
@@ -95,9 +131,5 @@ All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
 
 ## Submission link
 
-Use the [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) to submit archival submissions.
+Use the [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) for submissions.
 
-
-## Contact
-
-Please contact lignos at brandeis dot edu with any questions.
