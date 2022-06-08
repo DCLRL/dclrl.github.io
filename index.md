@@ -2,6 +2,7 @@
 
 LREC 2022 Workshop, 9am-1pm June 24th, 2022
 
+
 # Workshop Description
 
 In recent years, there has been a significant increase in interest in developing datasets for lower-resourced languages and a greater involvement of the communities speaking those languages in the process. Developing resources for languages that have had fewer resources created for them poses a unique set of technical and ethical challenges that differs from higher-resourced language work.
@@ -13,11 +14,24 @@ Our workshop is designed to be open and inclusive, presenting great scholarship 
 Like all of LREC, the workshop will be held in a hybrid fashion, with options for in-person and remote participation.
 
 
-# Schedule
+# Preliminary Schedule
 
-A final schedule is coming soon. The workshop will be held from 9am to 1pm on June 24th, at LREC 2022. There will be a coffee break from 10:30-11:00.
+A final schedule is coming soon. Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for presenting and 3 minutes for questions.
 
-Each paper will be presented with an oral presentation.
+*9-9:10am*  
+Opening remarks (Constantine Lignos)
+
+*9:10-9:40am*  
+Invited talk (TBD)
+
+*9:40-10:30am*  
+Oral presentations I (three talks)
+
+*11-12:50pm*  
+Oral presentations II (four talks)
+
+*12:50-1pm*  
+Closing remarks (Constantine Lignos)
 
 
 # Accepted Papers
@@ -51,6 +65,7 @@ Aparna Dutta
 
 *Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples*  
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
+
 
 # People
 
@@ -118,7 +133,6 @@ References, acknowledgments, and ethical considerations/broader impact sections 
 
 A PDF-format appendix containing supplementary information (additional results, information for reproducibility, annotation guidelines, etc.) can also be submitted if desired.
 
-
 ## Dates
 
 All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
@@ -132,4 +146,3 @@ All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
 ## Submission link
 
 Use the [DCLRL START Conference Manager Site](https://www.softconf.com/lrec2022/DataLRL/) for submissions.
-
