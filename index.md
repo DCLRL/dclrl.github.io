@@ -27,7 +27,7 @@ Invited talk (TBD)
 *9:40–10:30am*  
 Oral presentations I (three talks)
 
-*10:30–11am*  
+*10:30–11:00am*  
 Coffee break
 
 *11:00am–12:55pm*  
@@ -36,7 +36,7 @@ Oral presentations II (seven talks, five-minute break in the middle)
 *12:55–1:00pm*  
 Closing remarks (Constantine Lignos)
 
-Afternoon workshops will begin at 2pm.
+LREC afternoon workshops will begin at 2pm, so there will be a one hour lunch break following the workshop.
 
 
 # Accepted Papers
