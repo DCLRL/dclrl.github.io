@@ -18,7 +18,7 @@ Like all of LREC, the workshop will be held in a hybrid fashion, with options fo
 
 A final schedule is coming soon. Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for presenting and 3 minutes for questions.
 
-*9-9:10am*  
+*9:00-9:10am*  
 Opening remarks (Constantine Lignos)
 
 *9:10-9:40am*  
@@ -30,10 +30,10 @@ Oral presentations I (three talks)
 *10:30-11am*  
 Coffee break
 
-*11-12:55pm*  
+*11:00am-12:55pm*  
 Oral presentations II (seven talks, five-minute break in the middle)
 
-*12:55-1pm*  
+*12:55-1:00pm*  
 Closing remarks (Constantine Lignos)
 
 Afternoon workshops will begin at 2pm.
