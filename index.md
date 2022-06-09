@@ -62,7 +62,7 @@ Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper,
 *LiSTra Automatic Speech Translation: English to Lingala Case Study*  
 Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 
-*SyntAct: A Synthesized Database of Basic Emotions*  
+*[SyntAct: A Synthesized Database of Basic Emotions](http://felix.syntheticspeech.de/publications/synthetic_database.pdf)*  
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 *Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data*  
