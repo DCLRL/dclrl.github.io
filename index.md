@@ -19,10 +19,10 @@ Like all of LREC, the workshop will be held in a hybrid fashion, with options fo
 A final schedule is coming soon. Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
 
 *9:00–9:10am*  
-Opening remarks (Constantine Lignos)
+**Opening remarks (Constantine Lignos)**
 
 *9:10–9:40am*  
-Invited talk (TBD)
+**Invited talk (TBD)**
 
 *9:40–10:30am*  
 **Oral presentations I**
@@ -37,7 +37,7 @@ Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and 
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 *10:30–11:00am*  
-Coffee break
+**Coffee break**
 
 *11:00am–12:55pm*  
 **Oral presentations II**
@@ -68,7 +68,7 @@ Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
 *12:55–1:00pm*  
-Closing remarks (Constantine Lignos)
+**Closing remarks (Constantine Lignos)**
 
 LREC afternoon workshops will begin at 2pm, so there will be a one hour lunch break following the workshop.
 
