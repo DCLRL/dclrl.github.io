@@ -14,9 +14,9 @@ Our workshop is designed to be open and inclusive, presenting great scholarship 
 Like all of LREC, the workshop will be held in a hybrid fashion, with options for in-person and remote participation.
 
 
-# Preliminary Schedule
+# Schedule
 
-A final schedule is coming soon. Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
+Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
 
 *9:00–9:10am*  
 **Opening remarks (Constantine Lignos)**
@@ -27,7 +27,7 @@ A final schedule is coming soon. Each paper will receive an oral presentation (w
 *9:40–10:30am*  
 **Oral presentations I**
 
-*[Building an Icelandic Entity Linking Corpus]http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
+*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
 *[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*  
