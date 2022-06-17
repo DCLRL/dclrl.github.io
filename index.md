@@ -27,13 +27,13 @@ A final schedule is coming soon. Each paper will receive an oral presentation (w
 *9:40–10:30am*  
 **Oral presentations I**
 
-*[Building an Icelandic Entity Linking Corpus](https://arxiv.org/abs/2206.05014)*  
+*[Building an Icelandic Entity Linking Corpus]http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
-*Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community*  
+*[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*  
 Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
 
-*[SyntAct: A Synthesized Database of Basic Emotions](http://felix.syntheticspeech.de/publications/synthetic_database.pdf)*  
+*[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*  
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 *10:30–11:00am*  
@@ -42,69 +42,35 @@ Felix Burkhardt, Florian Eyben and Björn W. Schuller
 *11:00am–12:55pm*  
 **Oral presentations II**
 
-*Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection*  
+*[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*  
 Erik Körner, Felix Helfer, Christopher Schröder, Thomas Eckart and Dirk Goldhahn
 
-*Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images*  
+*[Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.2.pdf)*  
 Christina Baskal, Amelie Elisabeth Beutel, Jessika Keberlein, Malte
 Ollmann, Esra Üresin, Jana Vischinski, Janina Weihe, Linda Achilles
 and Christa Womser-Hacker
 
-*Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data*  
+*[Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.10.pdf)*  
 Aparna Dutta
 
-*Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics*  
+*[Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)*  
 Muxuan Liu and Ichiro Kobayashi
 
 *5-minute break*
 
-*Fine-grained Entailment: Resources for Greek NLI and Precise Entailment*  
+*[Fine-grained Entailment: Resources for Greek NLI and Precise Entailment](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.6.pdf)*  
 Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper, Simon Dobnik, Aram Karimi, Adam Ek, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Ilias Kolokousis, Eirini Chrysovalantou Mamatzaki, Dimitrios Papadakis, Olga Petrova, Erofili Psaltaki, Charikleia Soupiona, Effrosyni Skoulataki and Christina Stefanidou
 
-*LiSTra Automatic Speech Translation: English to Lingala Case Study*  
+*[LiSTra Automatic Speech Translation: English to Lingala Case Study](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)*  
 Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 
-*Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples*  
+*[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*  
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
 *12:55–1:00pm*  
 **Closing remarks (Constantine Lignos)**
 
 LREC afternoon workshops will begin at 2pm, so there will be a one hour lunch break following the workshop.
-
-
-# Accepted Papers
-
-*Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community*  
-Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
-
-*[Building an Icelandic Entity Linking Corpus](https://arxiv.org/abs/2206.05014)*  
-Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
-
-*Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics*  
-Muxuan Liu and Ichiro Kobayashi
-
-*Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection*  
-Erik Körner, Felix Helfer, Christopher Schröder, Thomas Eckart and Dirk Goldhahn
-
-*Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images*  
-Christina Baskal, Amelie Elisabeth Beutel, Jessika Keberlein, Malte Ollmann, Esra Üresin, Jana Vischinski, Janina Weihe, Linda Achilles and Christa Womser-Hacker
-
-*Fine-grained Entailment: Resources for Greek NLI and Precise Entailment*  
-Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper, Simon Dobnik, Aram Karimi, Adam Ek, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Ilias Kolokousis, Eirini Chrysovalantou Mamatzaki, Dimitrios Papadakis, Olga Petrova, Erofili Psaltaki, Charikleia Soupiona, Effrosyni Skoulataki and Christina Stefanidou
-
-*LiSTra Automatic Speech Translation: English to Lingala Case Study*  
-Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
-
-*[SyntAct: A Synthesized Database of Basic Emotions](http://felix.syntheticspeech.de/publications/synthetic_database.pdf)*  
-Felix Burkhardt, Florian Eyben and Björn W. Schuller
-
-*Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data*  
-Aparna Dutta
-
-*Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples*  
-Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
-
 
 # People
 
