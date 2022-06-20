@@ -22,7 +22,7 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 **Opening remarks (Constantine Lignos)**
 
 *9:10–9:40am*  
-**Invited talk (TBD)**
+**Panel on resources and language technology for lower-resourced languages (TBD)**
 
 *9:40–10:30am*  
 **Oral presentations I**
