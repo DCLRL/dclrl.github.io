@@ -55,7 +55,7 @@ Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 ---
 
-*11:00am–12:55pm*
+*11:00am–12:50pm*
 **Oral presentations II**
 
 *11:00–11:15am*
