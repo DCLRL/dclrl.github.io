@@ -100,6 +100,8 @@ Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Cha
 
 LREC afternoon workshops will begin at 14:00, so there will be a one hour lunch break following the workshop.
 
+---
+
 # People
 
 ## Organizers
