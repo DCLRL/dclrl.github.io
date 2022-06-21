@@ -1,6 +1,6 @@
 # The First Workshop on Dataset Creation for Lower-Resourced Languages
 
-## LREC 2022 Workshop, June 24th, 2022, 9am-1pm
+## LREC 2022 Workshop, June 24th, 2022, 09:00–13:00
 
 
 # Workshop Description
@@ -20,116 +20,116 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 
 ---
 
-*9:00–9:10am*
+*09:00–09:10*
 **Opening remarks (Constantine Lignos)**
 
-*9:10–9:40am*
+*09:10–09:40*
 **Panel on resources and language technology for lower-resourced
-languages**  
+languages**
 Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen)
 
 ---
 
-*9:40–10:30am*
+*09:40–10:30*
 **Oral presentations I**
 
-*9:40–9:55am*
-*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
+*09:40–09:55*
+*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
-*9:55–10:00am*
+*09:55–10:00*
 Short break (if time allows)
 
-*10:00–10:15am*
-*[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*  
+*10:00–10:15*
+*[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*
 Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
 
-*10:15–10:30am*
-*[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*  
+*10:15–10:30*
+*[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 ---
 
-*10:30–11:00am*
+*10:30–11:00*
 **Coffee break**
 
 ---
 
-*11:00am–12:50pm*
+*11:00–12:50*
 **Oral presentations II**
 
-*11:00–11:15am*
-*[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*  
+*11:00–11:15*
+*[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*
 Erik Körner, Felix Helfer, Christopher Schröder, Thomas Eckart and Dirk Goldhahn
 
-*11:15–11:30am*
-*[Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.2.pdf)*  
+*11:15–11:30*
+*[Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.2.pdf)*
 Christina Baskal, Amelie Elisabeth Beutel, Jessika Keberlein, Malte
 Ollmann, Esra Üresin, Jana Vischinski, Janina Weihe, Linda Achilles
 and Christa Womser-Hacker
 
-*11:30–11:45am*
-*[Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.10.pdf)*  
+*11:30–11:45*
+*[Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.10.pdf)*
 Aparna Dutta
 
-*11:45am–12:00pm*
-*[Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)*  
+*11:45–12:00*
+*[Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)*
 Muxuan Liu and Ichiro Kobayashi
 
-*12:00–12:05pm*
+*12:00–12:05*
 Short break (if time allows)
 
-*12:05–12:20pm*
-*[Fine-grained Entailment: Resources for Greek NLI and Precise Entailment](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.6.pdf)*  
+*12:05–12:20*
+*[Fine-grained Entailment: Resources for Greek NLI and Precise Entailment](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.6.pdf)*
 Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper, Simon Dobnik, Aram Karimi, Adam Ek, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Ilias Kolokousis, Eirini Chrysovalantou Mamatzaki, Dimitrios Papadakis, Olga Petrova, Erofili Psaltaki, Charikleia Soupiona, Effrosyni Skoulataki and Christina Stefanidou
 
-*12:20–12:35pm*
-*[LiSTra Automatic Speech Translation: English to Lingala Case Study](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)*  
+*12:20–12:35*
+*[LiSTra Automatic Speech Translation: English to Lingala Case Study](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)*
 Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 
-*12:35–12:50pm*
-*[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*  
+*12:35–12:50*
+*[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
 ---
 
-*12:50–1:00pm*
+*12:50–13:00*
 **Closing remarks (Constantine Lignos)**
 
 ---
 
-LREC afternoon workshops will begin at 2pm, so there will be a one hour lunch break following the workshop.
+LREC afternoon workshops will begin at 14:00, so there will be a one hour lunch break following the workshop.
 
 # People
 
 ## Organizers
 
-Constantine Lignos  
-Chester Palen-Michel  
+Constantine Lignos
+Chester Palen-Michel
 Jonne Sälevä
 
 ## Program Committee
 
-Linda Achilles  
-Petra Bago  
-Steven Bedrick  
-Stergios Chatzikyriakidis  
-Aparna Dutta  
-Hafsteinn Einarsson  
-Steinunn Rut Friðriksdóttir  
-Imane Guellil  
-Rejwanul Haque  
-Asha Hegde  
-Chaak-ming Lau  
-Jackson Lee  
-Muxuan Liu  
-Alex Lưu  
-Vukosi Marivate  
-Malte Ollmann  
-Hilary Prichard  
-Karthika Ranganathan  
-Caitlin Richter  
-Hosahalli Lakshmaiah Shashirekha  
+Linda Achilles
+Petra Bago
+Steven Bedrick
+Stergios Chatzikyriakidis
+Aparna Dutta
+Hafsteinn Einarsson
+Steinunn Rut Friðriksdóttir
+Imane Guellil
+Rejwanul Haque
+Asha Hegde
+Chaak-ming Lau
+Jackson Lee
+Muxuan Liu
+Alex Lưu
+Vukosi Marivate
+Malte Ollmann
+Hilary Prichard
+Karthika Ranganathan
+Caitlin Richter
+Hosahalli Lakshmaiah Shashirekha
 Ridouane Tachicart
 
 ## Contact
