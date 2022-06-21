@@ -22,17 +22,25 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 **Opening remarks (Constantine Lignos)**
 
 *9:10–9:40am*  
-**Panel on resources and language technology for lower-resourced languages (TBD)**
+**Panel on resources and language technology for lower-resourced
+languages**
+Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen)
 
 *9:40–10:30am*  
 **Oral presentations I**
 
+*9:40–9:55am*  
 *[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
+*9:55–10:10am*  
 *[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*  
 Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
 
+*10:10am–10:15am*  
+Short break (if time allows)
+
+*10:15am–10:30am*  
 *[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*  
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
