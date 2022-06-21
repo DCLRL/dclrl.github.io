@@ -18,19 +18,16 @@ Like all of LREC, the workshop will be held in a hybrid fashion, with options fo
 
 Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
 
-*9:00–9:10am*  
-**Opening remarks (Constantine Lignos)**
+*9:00–9:10am*: **Opening remarks (Constantine Lignos)**
 
-*9:10–9:40am*  
-**Panel on resources and language technology for lower-resourced
+*9:10–9:40am*: **Panel on resources and language technology for lower-resourced
 languages**  
 Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen)
 
-*9:40–10:30am*  
+*9:40–10:30am*: 
 **Oral presentations I**
 
-*9:40–9:55am*  
-*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
+*9:40–9:55am*: *[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
 *9:55–10:00am*  
