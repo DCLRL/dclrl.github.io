@@ -1,6 +1,6 @@
-# Dataset Creation for Lower-Resourced Languages
+# The First Workshop on Dataset Creation for Lower-Resourced Languages
 
-LREC 2022 Workshop, 9am-1pm June 24th, 2022
+## LREC 2022 Workshop, June 24th, 2022, 9am-1pm
 
 
 # Workshop Description
