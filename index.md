@@ -18,6 +18,8 @@ Like all of LREC, the workshop will be held in a hybrid fashion, with options fo
 
 Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
 
+---
+
 *9:00–9:10am*
 **Opening remarks (Constantine Lignos)**
 
@@ -25,6 +27,8 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 **Panel on resources and language technology for lower-resourced
 languages**  
 Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen)
+
+---
 
 *9:40–10:30am*
 **Oral presentations I**
@@ -44,8 +48,12 @@ Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and 
 *[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*  
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
+---
+
 *10:30–11:00am*
 **Coffee break**
+
+---
 
 *11:00am–12:55pm*
 **Oral presentations II**
@@ -83,8 +91,12 @@ Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 *[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*  
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
+---
+
 *12:50–1:00pm*
 **Closing remarks (Constantine Lignos)**
+
+---
 
 LREC afternoon workshops will begin at 2pm, so there will be a one hour lunch break following the workshop.
 
