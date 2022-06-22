@@ -106,33 +106,33 @@ LREC afternoon workshops will begin at 14:00, so there will be a one hour lunch 
 
 ## Organizers
 
-Constantine Lignos
-Chester Palen-Michel
-Jonne Sälevä
+Constantine Lignos  
+Chester Palen-Michel  
+Jonne Sälevä  
 
 ## Program Committee
 
-Linda Achilles
-Petra Bago
-Steven Bedrick
-Stergios Chatzikyriakidis
-Aparna Dutta
-Hafsteinn Einarsson
-Steinunn Rut Friðriksdóttir
-Imane Guellil
-Rejwanul Haque
-Asha Hegde
-Chaak-ming Lau
-Jackson Lee
-Muxuan Liu
-Alex Lưu
-Vukosi Marivate
-Malte Ollmann
-Hilary Prichard
-Karthika Ranganathan
-Caitlin Richter
-Hosahalli Lakshmaiah Shashirekha
-Ridouane Tachicart
+Linda Achilles  
+Petra Bago  
+Steven Bedrick  
+Stergios Chatzikyriakidis  
+Aparna Dutta  
+Hafsteinn Einarsson  
+Steinunn Rut Friðriksdóttir  
+Imane Guellil  
+Rejwanul Haque  
+Asha Hegde  
+Chaak-ming Lau  
+Jackson Lee  
+Muxuan Liu  
+Alex Lưu  
+Vukosi Marivate  
+Malte Ollmann  
+Hilary Prichard  
+Karthika Ranganathan  
+Caitlin Richter  
+Hosahalli Lakshmaiah Shashirekha  
+Ridouane Tachicart  
 
 ## Contact
 
