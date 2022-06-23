@@ -26,12 +26,14 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 *09:10–09:40*
 **Panel on resources and language technology for lower-resourced
 languages**
-Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen)
+Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen), Linda Wiechetek (UiT the Arctic University of Norway)
 
 ---
 
 *09:40–10:30*
-**Oral presentations I**
+**Oral presentations I**  
+Chair: Jonne Sälevä  
+Co-chair: Chester Palen-Michel
 
 *09:40–09:55*
 *[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*
@@ -56,7 +58,9 @@ Felix Burkhardt, Florian Eyben and Björn W. Schuller
 ---
 
 *11:00–12:50*
-**Oral presentations II**
+**Oral presentations II**  
+Chair: Chester Palen-Michel  
+Co-chair: Jonne Sälevä
 
 *11:00–11:15*
 *[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*
