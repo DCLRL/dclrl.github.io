@@ -25,7 +25,7 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 
 *09:10–09:40*
 **Panel on resources and language technology for lower-resourced
-languages**
+languages**  
 Panelists:  
 [A. Seza Doğruöz](http://www.asezadogruoz.com/) (Ghent University)  
 [Mathilde Hutin](https://mathildehutin.wordpress.com/) (Université Paris-Saclay / LISN-CNRS (UMR 9015))  
