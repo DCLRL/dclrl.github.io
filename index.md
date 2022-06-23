@@ -168,7 +168,7 @@ A non-exhaustive list of relevant topics for the workshop includes the following
 
 ## Submissions
 
-We invite submissions of 4-8 page papers describing new resources for lower-resourced languages (LRLs), analyses of existing resources, advances in methodologies for constructing, curating, and using resources, and discussion of the challenges and ethical considerations of working with LRLs. Archival submissions will be included in the proceedings of the workshop in full.
+We invite submissions of 4-8 page papers describing new resources for lower-resourced languages (LRLs), analyses of existing resources, advances in methodologies for constructing, curating, and using resources, and discussion of the challenges and ethical considerations of working with LRLs.
 
 Submissions must use the [LREC 2022 Template](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/) and be submitted as a PDF.
 Following the LREC template, submission are non-anonymous and reviewing is single-blind.
@@ -180,7 +180,7 @@ A PDF-format appendix containing supplementary information (additional results, 
 
 All deadlines are AoE (anywhere on Earth) time zone (UTC-12).
 
-* Submission deadline (archival): 4/18/2022
+* Submission deadline: 4/18/2022
 * Notification of acceptance: 5/3/2022
 * Camera-ready submission: 5/23/2022
 * Workshop: 6/24/2022 (morning)
