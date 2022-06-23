@@ -16,7 +16,7 @@ Like all of LREC, the workshop will be held in a hybrid fashion, with options fo
 
 # Schedule
 
-Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions.
+Each paper will receive an oral presentation (whether in-person or remote), with 12 minutes for a talk and 2–3 minutes for questions. All times are Marseille local time (CEST).
 
 ---
 
