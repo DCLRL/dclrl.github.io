@@ -26,7 +26,11 @@ Each paper will receive an oral presentation (whether in-person or remote), with
 *09:10–09:40*
 **Panel on resources and language technology for lower-resourced
 languages**
-Panelists: A. Seza Doğruöz (Ghent University), Mathilde Hutin (Université Paris-Saclay / LISN-CNRS (UMR 9015)), Heather Lent (University of Copenhagen), Linda Wiechetek (UiT the Arctic University of Norway)
+Panelists:  
+[A. Seza Doğruöz](http://www.asezadogruoz.com/) (Ghent University)  
+[Mathilde Hutin](https://mathildehutin.wordpress.com/) (Université Paris-Saclay / LISN-CNRS (UMR 9015))  
+[Heather Lent](https://heatherlent.co/) (University of Copenhagen)  
+[Linda Wiechetek](https://en.uit.no/ansatte/person?p_document_id=80854&p_dimension_id=210121) (UiT the Arctic University of Norway)
 
 ---
 
