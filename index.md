@@ -98,8 +98,9 @@ Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 *12:35–12:50*
 *[Words.hk: A Comprehensive Cantonese Dictionary Dataset with
 Definitions, Translations and Transliterated
-Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)* ((Slides)[DCLRL_Words_hk_Presentation.pdf])  
-Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
+Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*  
+Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian
+Suet-ying Chan ([Slides](DCLRL_Words_hk_Presentation.pdf))
 
 ---
 
