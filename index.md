@@ -40,18 +40,18 @@ Chair: Jonne Sälevä
 Co-chair: Chester Palen-Michel
 
 *09:40–09:55*
-*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*
+*[Building an Icelandic Entity Linking Corpus](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.4.pdf)*  
 Steinunn Rut Friðriksdóttir, Valdimar Ágúst Eggertsson, Benedikt Geir Jóhannesson, Hjalti Daníelsson, Hrafn Loftsson and Hafsteinn Einarsson
 
 *09:55–10:00*
 Short break (if time allows)
 
 *10:00–10:15*
-*[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*
+*[Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.9.pdf)*  
 Imane Guellil, Ahsan Adeel, Faical Azouaou, Mohamed Boubred, Yousra Houichi and Akram Abdelhaq Moumna
 
 *10:15–10:30*
-*[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*
+*[SyntAct: A Synthesized Database of Basic Emotions](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.1.pdf)*  
 Felix Burkhardt, Florian Eyben and Björn W. Schuller
 
 ---
@@ -67,36 +67,36 @@ Chair: Chester Palen-Michel
 Co-chair: Jonne Sälevä
 
 *11:00–11:15*
-*[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*
+*[Crawling Under-Resourced Languages - A Portal for Community-Contributed Corpus Collection](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.5.pdf)*  
 Erik Körner, Felix Helfer, Christopher Schröder, Thomas Eckart and Dirk Goldhahn
 
 *11:15–11:30*
-*[Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.2.pdf)*
+*[Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.2.pdf)*  
 Christina Baskal, Amelie Elisabeth Beutel, Jessika Keberlein, Malte
 Ollmann, Esra Üresin, Jana Vischinski, Janina Weihe, Linda Achilles
 and Christa Womser-Hacker
 
 *11:30–11:45*
-*[Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.10.pdf)*
+*[Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.10.pdf)*  
 Aparna Dutta
 
 *11:45–12:00*
-*[Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)*
+*[Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.3.pdf)*  
 Muxuan Liu and Ichiro Kobayashi
 
 *12:00–12:05*
 Short break (if time allows)
 
 *12:05–12:20*
-*[Fine-grained Entailment: Resources for Greek NLI and Precise Entailment](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.6.pdf)*
+*[Fine-grained Entailment: Resources for Greek NLI and Precise Entailment](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.6.pdf)*  
 Eirini Amanaki, Jean-Philippe Bernardy, Stergios Chatzikyriakidis, Robin Cooper, Simon Dobnik, Aram Karimi, Adam Ek, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Ilias Kolokousis, Eirini Chrysovalantou Mamatzaki, Dimitrios Papadakis, Olga Petrova, Erofili Psaltaki, Charikleia Soupiona, Effrosyni Skoulataki and Christina Stefanidou
 
 *12:20–12:35*
-*[LiSTra Automatic Speech Translation: English to Lingala Case Study](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)*
+*[LiSTra Automatic Speech Translation: English to Lingala Case Study](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)*  
 Salomon Kabongo Kabenamualu, Vukosi Marivate and Herman Kamper
 
 *12:35–12:50*
-*[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*
+*[Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.7.pdf)*  
 Chaak-ming Lau, Grace Wing-yan Chan, Raymond Ka-wai Tse and Lilian Suet-ying Chan
 
 ---
